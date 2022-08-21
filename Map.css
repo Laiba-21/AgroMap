@@ -1,0 +1,301 @@
+.logo
+{
+  width:75%;
+  height:50%;
+}
+.nav-item
+{
+  font-size: 100%;
+}
+.nave
+{
+  width:5.8%;
+  background-color: black;
+}
+
+.navbar-brands 
+{
+    color: antiquewhite;
+
+} 
+.mapouter
+{
+  height:340px;
+  width:1130px;
+}
+.gmap_canvas 
+{
+  overflow:hidden;
+  background:none!important;
+  height:340px;
+  width:1130px;
+}
+#gmap_canvas
+{
+  height:340px;
+  width:1130px;
+}
+
+.layers
+{
+  color:rgb(235, 230, 225);
+  transform: translate(350px,-300px);
+ 
+}
+.csv
+{
+  width: 100%;
+}
+
+.table thead tr th{
+color: aliceblue;
+}
+
+.table tbody tr th{
+  color: black;
+  background-color: aliceblue;
+  }
+  .table tbody tr td{
+  color: black;
+  background-color: aliceblue;
+  }
+  #chart_div
+{
+  width:290px;
+  height:200px;
+}
+#columnchart_values
+{
+  width:290px;
+  height:200px;
+}
+#piechart
+{
+  width:290px;
+  height:200px;
+}
+
+@media (max-width: 1520px) 
+{ 
+  .mapouter
+  {
+    width:1030px;
+  }
+  .gmap_canvas 
+{
+  width:1030px;
+}
+#gmap_canvas 
+{
+  width:1030px;
+}
+#chart_div
+{
+  width:300px;
+  height:200px;
+}
+#columnchart_values
+{
+  width:300px;
+  height:200px;
+}
+#piechart
+{
+  width:300px;
+  height:200px;
+}
+  
+ }
+
+ @media (max-width: 1420px) 
+{ 
+  .mapouter
+  {
+    width:930px;
+  }
+  .gmap_canvas 
+{
+  width:930px;
+}
+#gmap_canvas 
+{
+  width:930px;
+}
+
+ }
+ @media (max-width: 1320px) 
+ { 
+  .nave
+{
+  width:7%;
+  
+}
+   .mapouter
+   {
+     width:885px;
+   }
+   .gmap_canvas 
+ {
+   width:885px;
+ }
+ #gmap_canvas 
+ {
+   width:885px;
+ }
+ #chart_div
+ {
+   width:260px;
+   height:200px;
+ }
+ #columnchart_values
+ {
+   width:260px;
+   height:200px;
+ }
+ #piechart
+ {
+   width:260px;
+   height:200px;
+ }
+ .layers
+{
+ 
+  transform: translate(300px,-300px);
+ 
+}
+  }
+
+  @media (max-width: 1220px) 
+{ 
+  .layers
+  {
+    transform: translate(260px,-300px);
+  }
+  .csv
+  {
+    margin-left: -1.2%;
+  }
+  .table
+  {
+    margin-left: -1.2%;
+  }
+  .mapouter
+  {
+    margin-left: -0.7%;
+    width:810px;
+  }
+  .gmap_canvas 
+{
+  margin-left: -0.7%;
+  width:810px;
+}
+#gmap_canvas 
+{
+  margin-left: -0.7%;
+  width:810px;
+}
+#chart_div
+{
+  width:220px;
+  height:200px;
+}
+#columnchart_values
+{
+  width:220px;
+  height:200px;
+}
+#piechart
+{
+  width:220px;
+  height:200px;
+}
+  
+ }
+ @media (max-width: 1120px) 
+{ 
+  .layers
+  {
+    transform: translate(220px,-300px);
+  }
+ 
+  .mapouter
+  {
+    margin-left: -0.8%;
+    width:760px;
+  }
+  .gmap_canvas 
+{
+  margin-left: -0.8%;
+  width:760px;
+}
+#gmap_canvas 
+{
+  margin-left: -0.8%;
+  width:760px;
+}
+#chart_div
+{
+  width:190px;
+  height:200px;
+}
+#columnchart_values
+{
+  width:190px;
+  height:200px;
+}
+#piechart
+{
+  width:190px;
+  height:200px;
+}
+  
+
+ }
+
+ @media (max-width: 1020px) 
+ { 
+
+  .layers
+  {
+    transform: translate(180px,-300px);
+  }
+   .mapouter
+   {
+    margin-left: -0.5%;
+     width:730px;
+   }
+   .gmap_canvas 
+ {
+  margin-left: -0.5%;
+   width:730px;
+ }
+ #gmap_canvas 
+ {
+  margin-left: -0.5%;
+   width:730px;
+ }
+ #chart_div
+ {
+   width:190px;
+   height:200px;
+ }
+ #columnchart_values
+ {
+   width:190px;
+   height:200px;
+ }
+ #piechart
+ {
+   width:190px;
+   height:200px;
+ }
+ .nav
+ {
+      margin: 6%;
+ }
+ 
+  }
+
+
+
+
